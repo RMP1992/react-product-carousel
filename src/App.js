@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import {data} from'./data/data';
 import Carousel from './Components/Carousel'
 function App() {
